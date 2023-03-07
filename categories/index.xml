@@ -4,11 +4,6 @@
     <title>Categories on NoNonsense</title>
     <link>https://www.nononsense.pro/categories/</link>
     <description>Recent content in Categories on NoNonsense</description>
-    <image>
-      <title>NoNonsense</title>
-      <url>https://www.nononsense.pro/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.nononsense.pro/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.nononsense.pro/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
