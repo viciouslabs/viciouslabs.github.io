@@ -1,39 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NoNonsense</title>
     <link>https://www.nononsense.pro/</link>
     <description>Recent content on NoNonsense</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 16:15:51 +0100</lastBuildDate><atom:link href="https://www.nononsense.pro/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Oct 2025 16:15:51 +0100</lastBuildDate>
+    <atom:link href="https://www.nononsense.pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Asking</title>
       <link>https://www.nononsense.pro/posts/asking/</link>
       <pubDate>Fri, 10 Oct 2025 16:15:51 +0100</pubDate>
-      
       <guid>https://www.nononsense.pro/posts/asking/</guid>
-      <description>You might be an employee on the weekdays, and a curious warrior on the weekends. Usually we&amp;rsquo;re all set to work professionally as an employee. When you&amp;rsquo;re working with tools professionally, you&amp;rsquo;ll face a situation where you&amp;rsquo;ll need to switch identities seemlessly.
-Get More Done with Low Friction Setups Remember that side project you wanted to work on, getting started with it, and never finding time to start? But everytime you&amp;rsquo;d start, you notice that your IDEs and other tools need a little setting up to get started.</description>
+      <description>&lt;p&gt;You might be an employee on the weekdays, and a curious warrior on the weekends. Usually we&amp;rsquo;re all set to work professionally as an employee. When you&amp;rsquo;re working with tools professionally, you&amp;rsquo;ll face a situation where you&amp;rsquo;ll need to switch identities seemlessly.&lt;/p&gt;
+&lt;h3 id=&#34;get-more-done-with-low-friction-setups&#34;&gt;Get More Done with Low Friction Setups&lt;/h3&gt;
+&lt;p&gt;Remember that side project you wanted to work on, getting started with it, and never finding time to start? But everytime you&amp;rsquo;d start, you notice that your IDEs and other tools need a little setting up to get started.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Multiple Personality Disorder</title>
       <link>https://www.nononsense.pro/posts/multiple-personality-disorder/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
       <guid>https://www.nononsense.pro/posts/multiple-personality-disorder/</guid>
-      <description>You might be an employee on the weekdays, and a curious warrior on the weekends. Usually we&amp;rsquo;re all set to work professionally as an employee. When you&amp;rsquo;re working with tools professionally, you&amp;rsquo;ll face a situation where you&amp;rsquo;ll need to switch identities seemlessly.
-Get More Done with Low Friction Setups Remember that side project you wanted to work on, getting started with it, and never finding time to start? But everytime you&amp;rsquo;d start, you notice that your IDEs and other tools need a little setting up to get started.</description>
+      <description>&lt;p&gt;You might be an employee on the weekdays, and a curious warrior on the weekends. Usually we&amp;rsquo;re all set to work professionally as an employee. When you&amp;rsquo;re working with tools professionally, you&amp;rsquo;ll face a situation where you&amp;rsquo;ll need to switch identities seemlessly.&lt;/p&gt;
+&lt;h3 id=&#34;get-more-done-with-low-friction-setups&#34;&gt;Get More Done with Low Friction Setups&lt;/h3&gt;
+&lt;p&gt;Remember that side project you wanted to work on, getting started with it, and never finding time to start? But everytime you&amp;rsquo;d start, you notice that your IDEs and other tools need a little setting up to get started.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://www.nononsense.pro/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nononsense.pro/search/</guid>
-      <description>search</description>
-    </item>
-    
   </channel>
 </rss>
