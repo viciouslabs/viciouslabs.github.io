@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NoNonsense</title>
-    <link>https://www.nononsense.pro/</link>
+    <link>https://www.nononsense.pro/index.json</link>
     <description>Recent content on NoNonsense</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
